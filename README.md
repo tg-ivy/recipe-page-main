@@ -29,8 +29,8 @@ I wanted to refresh my CSS skills after a long time without coding any HTML or C
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/tg-ivy/recipe-page-main](https://github.com/tg-ivy/recipe-page-main)
+- Live Site URL: [https://tg-ivy.github.io/recipe-page-main/](https://tg-ivy.github.io/recipe-page-main/)
 
 ## My process
 
